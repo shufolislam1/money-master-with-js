@@ -74,3 +74,5 @@ document.getElementById('save-btn').addEventListener('click', function(){
     const remaining = document.getElementById('remaining');
     remaining.innerText = incomeValue - (totalExpenses + saveAmount);
 })
+
+// Done
